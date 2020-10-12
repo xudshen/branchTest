@@ -1,5 +1,5 @@
 allprojects {
     ext {
-        helloVersion = "x12xx"
+        helloVersion = "changed"
     }
 }
